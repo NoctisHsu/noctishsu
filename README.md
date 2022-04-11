@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi I'm Noctis 
 
-<!--
+
 **NoctisHsu/noctishsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+  * 🤿 I'm Developper Analyst from Fatec;
+  * 📚 Now, I'm learning about Google Analytics and AWS;
+  * 📷 I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](studiourbanna.github.io)!
+  * 🎮 I like Green Tea, I love games and I love arts.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
