@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Noctis</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noctishsu&label=Profile%20views&color=0e75b6&style=flat" alt="noctishsu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctishsu" alt="noctishsu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/noctishsu" target="blank"><img src="https://img.shields.io/twitter/follow/noctishsu?logo=twitter&style=for-the-badge" alt="noctishsu" /></a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=noctishsu&label=Profile%20views&color=0e75b6&style=flat" alt="noctishsu" />
+</p>
 
 - 🔭 I’m currently working on **Blockchain Industry**
 
 - 🌱 I’m currently learning **JavaScript 多執行緒｜超越事件迴圈的並行 (Multithreaded JavaScript)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://twitter.com/noctishsu" target="blank"><img src="https://img.shields.io/twitter/follow/noctishsu?logo=twitter&style=for-the-badge" alt="noctishsu" height="30" width="40" /></a>
 <a href="https://dev.to/noctishsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noctishsu" height="30" width="40" /></a>
 <a href="https://twitter.com/noctishsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noctishsu" height="30" width="40" /></a>
 </p>
@@ -27,6 +23,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/noctishsu"></p><br>
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noctishsu" /></a></p><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctishsu&show_icons=true&locale=en&layout=compact" alt="noctishsu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noctishsu&show_icons=true&locale=en" alt="noctishsu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctishsu&" alt="noctishsu" /></p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctishsu&show_icons=true&locale=en&layout=compact" alt="noctishsu" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctishsu" alt="noctishsu" /></a> 
+
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=noctishsu&show_icons=true&locale=en" alt="noctishsu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctishsu&" alt="noctishsu" />
+</p>
