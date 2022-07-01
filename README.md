@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/noctishsu" target="blank"><img src="https://img.shields.io/twitter/follow/noctishsu?logo=twitter&style=for-the-badge" alt="noctishsu" height="30" width="40" /></a>
 <a href="https://dev.to/noctishsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noctishsu" height="30" width="40" /></a>
 <a href="https://twitter.com/noctishsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noctishsu" height="30" width="40" /></a>
 </p>
